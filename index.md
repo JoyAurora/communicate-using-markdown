@@ -2,7 +2,7 @@
 ## This is a <h2> header
 ###### This is a <h6> header, which is the smallest.
 
-![Image of mushroom medusa globes](https://github.com/JoyAurora/communicate-using-markdown/blob/main/images/fish.png?raw=true)
+![Image of fish](https://github.com/JoyAurora/communicate-using-markdown/blob/main/images/fish.png?raw=true)
 
 ```
 $ git init 
